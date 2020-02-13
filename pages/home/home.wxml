@@ -1,2 +1,3 @@
 <!--pages/home/home.wxml-->
 <text class="titleClass">20200203新建页面HomePage</text>
+<text>修改测试git的push</text>
